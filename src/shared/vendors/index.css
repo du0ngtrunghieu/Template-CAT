@@ -1,0 +1,7 @@
+@import "calendar.css";
+@import "loader.css";
+@import "maps.css";
+*{
+  margin: 0;
+  padding: 0;
+}
